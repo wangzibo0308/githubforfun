@@ -1,5 +1,5 @@
 # githubforfun
-practise with git hub
+practice with git hub
 
 
 
